@@ -14,9 +14,9 @@
    具有很强的模板特性, JpaRepository<T, ID>提供了常用的18个用于数据库操作的方法. 通过<继承>该接口, 而不用写接口的实现类. 即可
    拥有这18个常见的方法.
  
-   其继承体系如下
-   CrudRepository  提供基本的CRUD
-    PagingAndSortingRepository 提供分页查询与排序规则
+   其继承体系如下<br>
+   CrudRepository  提供基本的CRUD<br>
+    PagingAndSortingRepository 提供分页查询与排序规则<br>
      JpaRepository ...
  
  ##### 4.@EnableJpaRepositories
